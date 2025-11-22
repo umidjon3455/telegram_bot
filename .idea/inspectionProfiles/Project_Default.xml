@@ -1,0 +1,57 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyAssertTypeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyComparisonWithNoneInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyDocstringTypesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyExceptClausesOrderInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyInvalidCastInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiofiles" />
+          <option value="aiogram" />
+          <option value="aiohttp" />
+          <option value="aiojobs" />
+          <option value="aiosignal" />
+          <option value="annotated-types" />
+          <option value="async-timeout" />
+          <option value="attrs" />
+          <option value="Babel" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="environs" />
+          <option value="frozenlist" />
+          <option value="humanfriendly" />
+          <option value="idna" />
+          <option value="magic-filter" />
+          <option value="marshmallow" />
+          <option value="multidict" />
+          <option value="packaging" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="pyreadline3" />
+          <option value="python-dotenv" />
+          <option value="pytz" />
+          <option value="structlog" />
+          <option value="typing_extensions" />
+          <option value="yarl" />
+          <option value="asyncpg" />
+          <option value="pandas" />
+          <option value="openpyxl" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PySuperArgumentsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTupleItemAssignmentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnnecessaryBackslashInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnusedImportsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnusedLocalInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RegExpAnonymousGroup" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnusedDefine" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
